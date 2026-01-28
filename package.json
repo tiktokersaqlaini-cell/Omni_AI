@@ -1,7 +1,7 @@
 {
-  "name": "omnicontent-ai-pro",
+  "name": "omni-ai",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,15 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.2.4",
-    "@google/generative-ai": "^0.1.0",
-    "react-dom": "^19.2.4",
-    "lucide-react": "^0.463.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@google/generative-ai": "0.1.0",
+    "lucide-react": "0.284.0"
   },
   "devDependencies": {
-    "@types/node": "^22.10.2",
-    "@vitejs/plugin-react": "^4.3.4",
-    "typescript": "^5.7.2",
-    "vite": "^6.0.3"
+    "@vitejs/plugin-react": "4.0.0",
+    "vite": "4.3.9",
+    "typescript": "5.0.2"
   }
 }
