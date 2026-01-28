@@ -1,0 +1,8 @@
+
+{
+  "name": "OmniContent AI Pro",
+  "description": "A high-performance viral content engine that generates video scripts, voice personas, and social media metadata using advanced Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
